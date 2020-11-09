@@ -8,4 +8,4 @@ This is a simple bash script. The following resources will be deployed
 - VM image - 2016 Windows Datacenter
 - Open RDP - port 3389
 - Local admin - labadmin
-- Password for VM - P@ssword!
+- Password for VM - P@ssword123!
