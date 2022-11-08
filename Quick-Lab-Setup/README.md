@@ -1,4 +1,5 @@
 # Quickly deploy a lab VM
+# Script written by Nick Lindstrom
 
 For setting up a lab, not for use in production
 
