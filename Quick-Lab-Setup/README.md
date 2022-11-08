@@ -1,7 +1,8 @@
 # Quickly deploy a lab VM
-# Script written by Nick Lindstrom
 
-For setting up a lab, not for use in production
+Script written by Nick Lindstrom
+
+For setting up a lab
 
 This is a simple bash script. The following resources will be deployed
 - Resource group - LabResourceGroup
